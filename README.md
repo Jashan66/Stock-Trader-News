@@ -1,0 +1,2 @@
+# Stock-Trader-News
+A stock trader that will grab the ticker information about how much an individual stock has gone up or down in a single trading day using the open and closing data. Uses polygon.io API to achieve this while also grabbing the most relevant news source from that day as well. Collects all this information and send an SMS message using the Twillo API with the stock movement, and most relevant news article after each closing day.
